@@ -2561,7 +2561,6 @@ checksum = "77a5d83df9f36fe23f0c3648c6bbb8b0298bb5f1939c8f2704431371f4b84d43"
 dependencies = [
  "smallvec",
 ]
-
 [[package]]
 name = "nix"
 version = "0.29.0"
