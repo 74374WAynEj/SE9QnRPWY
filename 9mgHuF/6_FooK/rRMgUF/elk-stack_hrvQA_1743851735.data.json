@@ -1092,7 +1092,6 @@
 {"purchased_at":"2016-06-29T07:54:55Z","lines":[{"product_id":3,"amount":26.67,"quantity":1}],"total_amount":26.67,"salesman":{"id":28,"name":"Carolynn Strode"},"sales_channel":"app","status":"completed"}
 {"index":{"_id":547}}
 {"purchased_at":"2016-04-20T06:29:41Z","lines":[{"product_id":10,"amount":96.01,"quantity":3}],"total_amount":96.01,"salesman":{"id":55,"name":"Sandie Falla"},"sales_channel":"phone","status":"completed"}
-{"index":{"_id":548}}
 {"purchased_at":"2016-01-28T09:27:22Z","lines":[{"product_id":2,"amount":37.32,"quantity":2}],"total_amount":37.32,"salesman":{"id":56,"name":"Lora Lombard"},"sales_channel":"app","status":"cancelled"}
 {"index":{"_id":549}}
 {"purchased_at":"2016-10-08T15:11:33Z","lines":[{"product_id":9,"amount":73.03,"quantity":2},{"product_id":9,"amount":61.2,"quantity":1},{"product_id":8,"amount":92.7,"quantity":2}],"total_amount":226.93,"salesman":{"id":71,"name":"Ursulina Polglase"},"sales_channel":"web","status":"cancelled"}
