@@ -23,7 +23,6 @@ RUN \
   /install-de.sh
 
 RUN \
-  chmod +x /installapps.sh && \
   /installapps.sh && \
 
 RUN \
