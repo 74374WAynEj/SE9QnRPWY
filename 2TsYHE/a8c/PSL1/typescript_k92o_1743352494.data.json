@@ -1,7 +1,6 @@
   "rules": {
     "tags": ["recommended"],
     "include": [
-      "camelcase",
       "guard-for-in"
     ],
     "exclude": [
