@@ -1,6 +1,5 @@
   "rules": {
     "tags": ["recommended"],
-    "include": [
       "guard-for-in"
     ],
     "exclude": [
