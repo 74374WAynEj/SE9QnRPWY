@@ -25,7 +25,6 @@ RUN \
 RUN \
   chmod +x /installapps.sh && \
   /installapps.sh && \
-  rm /installapps.sh
 
 RUN \
   echo "**** cleanup ****" && \
