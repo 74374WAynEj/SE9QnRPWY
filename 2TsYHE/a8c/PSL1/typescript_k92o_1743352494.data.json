@@ -1,7 +1,6 @@
   "rules": {
     "tags": ["recommended"],
     "include": [
-      "ban-untagged-todo",
       "camelcase",
       "guard-for-in"
     ],
