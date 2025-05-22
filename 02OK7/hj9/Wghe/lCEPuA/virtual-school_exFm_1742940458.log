@@ -1,6 +1,5 @@
 FROM ghcr.io/linuxserver/baseimage-kasmvnc:ubuntujammy
 
-ARG BUILD_DATE
 ARG VERSION
 LABEL maintainer="mollomm1"
 
