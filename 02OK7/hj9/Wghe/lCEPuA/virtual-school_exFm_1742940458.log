@@ -1,6 +1,5 @@
 FROM ghcr.io/linuxserver/baseimage-kasmvnc:ubuntujammy
 
-ARG VERSION
 LABEL maintainer="mollomm1"
 
 ARG DEBIAN_FRONTEND="noninteractive"
