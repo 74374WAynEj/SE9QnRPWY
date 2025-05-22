@@ -13,7 +13,6 @@ COPY options.json /
   echo "**** install packages ****" && \
   add-apt-repository -y ppa:mozillateam/ppa && \
   DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y firefox jq wget && \
-  chmod +x /install-de.sh && \
   /install-de.sh
 
 RUN \
