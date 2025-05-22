@@ -10,7 +10,6 @@ ARG DEBIAN_FRONTEND="noninteractive"
 COPY /root/etc/apt/preferences.d/firefox-no-snap /etc/apt/preferences.d/firefox-no-snap
 COPY options.json /
 
-COPY /root/ /
   echo "**** install packages ****" && \
   add-apt-repository -y ppa:mozillateam/ppa && \
   DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y firefox jq wget && \
