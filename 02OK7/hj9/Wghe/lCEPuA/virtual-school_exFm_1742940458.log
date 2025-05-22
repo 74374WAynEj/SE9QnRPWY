@@ -24,7 +24,6 @@ RUN \
   /installapps.sh && \
 
 RUN \
-  echo "**** cleanup ****" && \
   apt-get autoclean && \
     /config/.cache \
     /var/lib/apt/lists/* \
