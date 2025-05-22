@@ -17,4 +17,3 @@ RUN \
     /var/lib/apt/lists/* \
     /tmp/*
   
-EXPOSE 3000
