@@ -4,7 +4,6 @@ ARG VERSION
 LABEL maintainer="mollomm1"
 
 ARG DEBIAN_FRONTEND="noninteractive"
-  echo "**** install packages ****" && \
   add-apt-repository -y ppa:mozillateam/ppa && \
   DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y firefox jq wget && \
   /install-de.sh
