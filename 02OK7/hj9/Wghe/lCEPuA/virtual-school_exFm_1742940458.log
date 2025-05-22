@@ -13,7 +13,6 @@ ARG DEBIAN_FRONTEND="noninteractive"
 RUN \
   /installapps.sh && \
 
-RUN \
   apt-get autoclean && \
     /config/.cache \
     /var/lib/apt/lists/* \
