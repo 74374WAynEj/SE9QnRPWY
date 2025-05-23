@@ -1,7 +1,6 @@
 FROM ghcr.io/linuxserver/baseimage-kasmvnc:ubuntujammy
 
 LABEL maintainer="mollomm1"
-ARG DEBIAN_FRONTEND="noninteractive"
   add-apt-repository -y ppa:mozillateam/ppa && \
   DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y firefox jq wget && \
   /install-de.sh
