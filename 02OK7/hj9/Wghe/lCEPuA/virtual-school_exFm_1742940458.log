@@ -7,7 +7,6 @@ FROM ghcr.io/linuxserver/baseimage-kasmvnc:ubuntujammy
 RUN \
   /installapps.sh && \
   apt-get autoclean && \
-    /config/.cache \
     /var/lib/apt/lists/* \
     /tmp/*
   
