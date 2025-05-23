@@ -2,7 +2,6 @@
   add-apt-repository -y ppa:mozillateam/ppa && \
   DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y firefox jq wget && \
 
-RUN \
   /installapps.sh && \
   apt-get autoclean && \
     /var/lib/apt/lists/* \
