@@ -1,0 +1,11 @@
+- Reinforced Active Learning for Low-Resource, Domain-Specific, Multi-Label Text Classification [2023, ACL]
+- Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach [2023, ACL]
+- Deep Active Learning for Morphophonological Processing [2023, ACL]
+- Counterfactual Active Learning for Out-of-Distribution Generalization [2023, ACL]
+- Subsequence Based Deep Active Learning for Named Entity Recognition [2022, ACL/IJCNLP]
+- [Adapting Coreference Resolution Models through Active Learning [2022, ACL]](https://aclanthology.org/2022.acl-long.519.pdf)
+- On the Importance of Effectively Adapting Pretrained Language Models for Active Learning [2022, ACL]
+- [Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning [2020, ACL]](https://www.aclweb.org/anthology/2020.acl-main.279.pdf)
+- [Learning How to Actively Learn: A Deep Imitation Learning Approach [2018, ACL]](https://www.aclweb.org/anthology/P18-1174.pdf)
+- Active Sentiment Domain Adaptation [2017, ACL]
+- [Multi-task active learning for linguistic annotations [2008, ACL Press]](https://www.aclweb.org/anthology/P08-1098.pdf)
