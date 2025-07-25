@@ -1,8 +1,18 @@
+以下是优化后的代码片段：
+
+```json
 {
   "all": true,
   "cache": false,
   "exclude": ["**/*.d.ts"],
   "extension": [".ts"],
-  "include": ["build/compiled/src/**", "src/**"],
+  "include": ["src/**", "build/compiled/src/**"],
   "reporter": "lcov"
 }
+```
+
+优化点：
+1. 将 `include` 数组中的路径顺序调整为先 `src/**` 后 `build/compiled/src/**`，保持一致性。
+2. 代码格式上，保持了原有的功能，只是调整了路径顺序和代码格式，没有改变原有功能。
+
+以上是优化后的代码片段，保持了原有功能。
